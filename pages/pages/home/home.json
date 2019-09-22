@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "ui-nav-bar": "../../../packages/touchui-wx-components/ui-nav-bar/dist/index",
+    "ui-mask": "../../../packages/touchui-wx-components/ui-mask/dist/index",
+    "vpush-checkin": "/libs/vpush-pro-sdk/components/checkin"
+  },
+  "navigationBarTextStyle": "white"
+}
