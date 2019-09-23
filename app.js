@@ -20,7 +20,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 exports.default = App({
   globalData: {},
-  vPush: new vPush('http://127.0.0.1:5001/api/1?'),
+  vPush: new vPush('https://push.yjyzj.cn/api/1?'),
   onLaunch: function onLaunch() {
     _system2.default.attachInfo();
     this.login();
